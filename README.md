@@ -1,2 +1,3 @@
-#Bienvenidos al Repositorio "Juego Memorama" 
-
+# Bienvenidos a nuestro repositorio
+## UNIVERSIDAD POLITECNICA DE TECAMAC
+## UNIVERSIDAD POLITECNIVA DE TECAMAC 	:tw-1f4d2:	:tw-1f49b:
